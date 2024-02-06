@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaryan Panda</h1>
-<h3 align="center">Passionate Front-End and Python Developer, Skilled in creating intuitive UIs and mastering DSA for efficient Problem-Solving.</h3>
+<h3 align="center">Passionate Full Stack and Python Developer, Skilled in creating intuitive UIs and mastering DSA for efficient Problem-Solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryanpanda&label=Profile%20views&color=0e75b6&style=flat" alt="aaryanpanda" /> </p>
 
